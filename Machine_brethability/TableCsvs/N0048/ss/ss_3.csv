@@ -1,0 +1,45 @@
+permeability
+testname,permeability
+sample,ss
+samplediameter,2.3
+thikness,1
+fluidname,Water
+fluidvalue,34.7
+lotno,ss
+duration,0 min:16 sec
+durationsecond,16
+testtime,13:39:01
+testdate,28/10/2020
+customerid,N0048
+indistry,Non-woven & Paper
+application,Aeronautical
+materialclassification,Fibrous
+splate,Medium
+30lpm,0.02907
+80lpm,0.08333
+160lpm,0.1376
+30lpmcase,FFP3
+30lpmresult,Fail
+80lpmcase,FFP3
+80lpmresult,Fail
+160lpmcase,FFP1
+160lpmresult,Fail
+testtype,Exhalation
+dfloworiginal,0.0,5.544111289133033,1534.5489687444367
+dpressureoriginal,0.0,0.008350216525520714,0.08087612542916
+dflow,5.5441112891330135,1534.5489687444367
+dpressure,0.008350216525520714,0.08087612542916
+darcy,81492.42979835068,2328860.5236339723
+darcy avg,2328860.52
+pg1value,100
+pg2value,100
+pg1offset,0.0
+pg2offset,0.0
+frazier,2696.9472
+gurley,0.02961
+gurleyflow,3582.13
+frazierflow,213.2
+frazier05inch,161.99663
+frazier10inch,2696.9471956232073
+flow05inch,213.19909976189504
+flow10inch,6154.159721205188
